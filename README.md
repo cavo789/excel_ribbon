@@ -10,7 +10,7 @@
 
 >This documentation will explain how to add / edit a custom ribbon in an Excel file
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 <!-- table-of-contents - start -->
 * [Get the editor](#get-the-editor)
